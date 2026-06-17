@@ -5,8 +5,8 @@ A hands-on tutorial for module **7PAM2021 – Machine Learning and Neural Networ
 tools — **L2 weight decay, dropout and early stopping** — using a **Multilayer
 Perceptron (MLP) written entirely from scratch in NumPy** on the two-moons problem.
 
-> **GitHub:** replace `<your-username>` below with your handle once you push this repo:
-> `https://github.com/<your-username>/mlp-regularisation-tutorial`
+> **GitHub:** replace `<SaiAkhil24>` below with your handle once you push this repo:
+> `https://github.com/<SaiAkhil24>/mlp-regularisation-tutorial`
 
 ## What's inside
 
